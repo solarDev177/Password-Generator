@@ -1,0 +1,24 @@
+To launch the program and run tests, do the following: 
+
+1) Load PyCharm IDE.
+2) Import the files.
+3) Run Driver.py.
+4) Done.
+
+
+Test: 
+
+1) Enter the length of characters you would like the password to be.
+2) Enter the site (and any other labels like usernames) with your password.
+3) Click "Generate Password:" to generate the password. Leave the entry blank (or don't, idk).
+4) Done! 
+
+Retrieve Password: 
+
+1) Copy the password that was printed into the file. It would be encrypted using the Caesar Cipher. 
+2) Paste it into the encrypted password entry. 
+3) Click "Retrieve Password" 
+4) Take the decrypted password, and you're done! :)
+
+
+
